@@ -1,7 +1,7 @@
 ### Olá! Sou o Paulo Berti!
 
 
-- 🖥️ Atualmente sou um Desenvolvedor Frontend!
+- 🖥️ Atualmente sou um Analista de Suporte Técnico!
 - ✅ Disposto para aprender de tudo!
   ##
 <div style="display: inline_block">
