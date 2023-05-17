@@ -1,7 +1,7 @@
 ### Olá! Sou o Paulo Berti!
 
 
-- 🖥️ Atualmente sou um Desenvolvedor!
+- 🖥️ Atualmente sou um Desenvolvedor Full Stack!
 - ✅ Disposto para aprender de tudo!
   ##
 <div style="display: inline_block">
