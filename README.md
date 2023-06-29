@@ -1,7 +1,8 @@
 ### Olá! Sou o Paulo Berti!
 
 
-- 🖥️ Atualmente sou um Desenvolvedor Full Stack!
+- 🖥️ Atualmente trabalho como Auxiliar de Infraestrutura na Unisaudems!
+- 🧰 Pratico desenvolvimento Full Stack!
 - ✅ Disposto para aprender de tudo!
   ##
 <div style="display: inline_block">
