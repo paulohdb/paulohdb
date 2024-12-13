@@ -1,7 +1,7 @@
 # Welcome to my Github! 
 
 ## About me:
-- 🧰 I'm a Full Stack Developer!
+- 🧰 I'm a Back End Developer!
 - 🔍 Looking for a new team to work with!
 - 📌 Languages and Frameworks I've worked with:
 
