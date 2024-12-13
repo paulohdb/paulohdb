@@ -1,4 +1,4 @@
-# Hello! My name is Paul!
+# Welcome to my Github! 
 
 ## About me:
 - 🧰 I'm a Full Stack Developer!
