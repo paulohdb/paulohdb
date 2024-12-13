@@ -1,10 +1,10 @@
 # Hello! My name is Paul!
 
 ## About me:
-- 🧰 Practicing Back-End Development!
-- ✅ Willing to learn everything!
-- 🔍 Looking for back-end developer team! 
+- 🧰 I'm a Full Stack Developer!
+- 🔍 Looking for a new team to work with!
 - 📌 Languages and Frameworks I've worked with:
+
 <div style="display: inline_block">
     <a href="https://beacons.ai/paulohdb">
     <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=paulohdb&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
