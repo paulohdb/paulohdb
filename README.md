@@ -1,7 +1,7 @@
 # Welcome to my Github! 
 
 ## About me:
-- 🧰 I'm a Back End Developer!
+- 🧰 I'm a Backend Developer!
 - 🔍 Looking for a new team to work with!
 - 📌 Languages and Frameworks I've worked with:
 
